@@ -1,4 +1,4 @@
-package org.example.chap02;
+package com.example.dataStructure.chap02;
 
 import java.util.Arrays;
 

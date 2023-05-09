@@ -1,4 +1,4 @@
-package org.example.chap03;
+package com.example.dataStructure.chap03;
 
 public class BinSearch {
     static int binSearch(int[] a, int n) {

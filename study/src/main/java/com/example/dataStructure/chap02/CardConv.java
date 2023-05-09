@@ -1,4 +1,4 @@
-package org.example.chap02;
+package com.example.dataStructure.chap02;
 
 public class CardConv {
     static String cardConv(int dex, int x) {

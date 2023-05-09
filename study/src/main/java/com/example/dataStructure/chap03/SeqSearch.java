@@ -1,4 +1,4 @@
-package org.example.chap03;
+package com.example.dataStructure.chap03;
 
 public class SeqSearch {
     static int seqSearch(int[] a, int n) {
