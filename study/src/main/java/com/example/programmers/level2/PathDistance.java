@@ -1,4 +1,4 @@
-package com.example.programmers;
+package com.example.programmers.level2;
 
 import java.util.*;
 
@@ -16,7 +16,7 @@ public class PathDistance {
     public static int solution(String dirs) {
 
         /*
-        //현재 포인터 (0-A, 10-K)
+        //현재 포인터 (0-a, 10-k)
         char x = 'f';
         char y = 'f';
         int answer = 0;
@@ -138,7 +138,7 @@ public class PathDistance {
     }
 
     public static void main(String[] args) {
-        String dirs = "RRRRRRRRRRRRRRRRRRR";
-        System.out.println("expect : 1" + "\nresult : " + solution(dirs));
+        String dirs = "RRUDURUDLUDLRULDUDULD";
+        System.out.println("result : " + solution(dirs));
     }
 }
