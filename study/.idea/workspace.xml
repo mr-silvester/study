@@ -42,13 +42,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TransformedCardConv">
+  <component name="RunManager" selected="Application.PathDistance">
     <configuration name="EuclidGCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.dataStructure.chap05.EuclidGCD" />
       <module name="study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.dataStructure.chap05.*" />
+          <option name="PATTERN" value="com.example.programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,7 +61,7 @@
       <module name="study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.dataStructure.chap05.*" />
+          <option name="PATTERN" value="com.example.programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.dataStructure.chap04.IntQueue" />
+    <configuration name="PathDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.programmers.PathDistance" />
       <module name="study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.dataStructure.chap04.*" />
+          <option name="PATTERN" value="com.example.programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,7 +87,7 @@
       <module name="study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.dataStructure.chap05.*" />
+          <option name="PATTERN" value="com.example.programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransformedCardConv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.dataStructure.chap05.TransformedCardConv" />
+    <configuration name="TheWorldOf124" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.programmers.TheWorldOf124" />
       <module name="study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.dataStructure.chap05.*" />
+          <option name="PATTERN" value="com.example.programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TransformedCardConv" />
+        <item itemvalue="Application.PathDistance" />
+        <item itemvalue="Application.TheWorldOf124" />
         <item itemvalue="Application.Recur" />
         <item itemvalue="Application.EuclidGCD" />
         <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.IntQueue" />
       </list>
     </recent_temporary>
   </component>

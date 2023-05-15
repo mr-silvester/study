@@ -1,6 +1,6 @@
-package com.example.dataStructure.chap05;
+package com.example.programmers;
 
-public class TransformedCardConv {
+public class TheWorldOf124 {
     /**
      * 124나라
      * 124 나라가 있습니다. 124 나라에서는 10진법이 아닌 다음과 같은 자신들만의 규칙으로 수를 표현합니다.
