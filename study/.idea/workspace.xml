@@ -38,11 +38,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/spring-security/spring-security/build.gradle&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/스프링 인 액션/taco-cloud/build.gradle&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DartGame">
+  <component name="RunManager" selected="Application.KakaoMbti">
     <configuration name="DartGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.programmers.level1.DartGame" />
       <module name="study.main" />
@@ -56,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.dataStructure.chap06.InsertionSort" />
+    <configuration name="KakaoMbti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.programmers.level1.KakaoMbti" />
       <module name="study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.dataStructure.chap06.*" />
+          <option name="PATTERN" value="com.example.programmers.level1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,6 +82,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PersonalInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.programmers.level1.PersonalInfo" />
+      <module name="study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.programmers.level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.dataStructure.chap06.QuickSort" />
       <module name="study.main" />
@@ -95,26 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.dataStructure.chap06.ShellSort" />
-      <module name="study.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.dataStructure.chap06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KakaoMbti" />
+        <item itemvalue="Application.PersonalInfo" />
         <item itemvalue="Application.DartGame" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.ShellSort" />
-        <item itemvalue="Application.InsertionSort" />
       </list>
     </recent_temporary>
   </component>
