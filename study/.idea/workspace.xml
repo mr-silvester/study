@@ -18,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,9 +43,22 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RecommendUserName">
-    <configuration name="KakaoMbti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.programmers.level1.KakaoMbti" />
+  <component name="RunManager" selected="Application.Dfs">
+    <configuration name="Dfs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.algorithm.Dfs" />
+      <module name="study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DullGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.programmers.level1.DullGame" />
       <module name="study.main" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +70,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lotto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.programmers.level1.Lotto" />
+    <configuration name="EmoticonEvent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.programmers.level2.EmoticonEvent" />
+      <module name="study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.programmers.level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Keypad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.programmers.level1.Keypad" />
       <module name="study.main" />
       <extension name="coverage">
         <pattern>
@@ -69,38 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonalInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.programmers.level1.PersonalInfo" />
+    <configuration name="LookGoodNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.programmers.LookGoodNum" />
       <module name="study.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.programmers.level1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecommendUserName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.programmers.level1.RecommendUserName" />
-      <module name="study.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.programmers.level1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserReport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.programmers.level1.UserReport" />
-      <module name="study.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.programmers.level1.*" />
+          <option name="PATTERN" value="com.example.programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RecommendUserName" />
-        <item itemvalue="Application.Lotto" />
-        <item itemvalue="Application.UserReport" />
-        <item itemvalue="Application.KakaoMbti" />
-        <item itemvalue="Application.PersonalInfo" />
+        <item itemvalue="Application.Dfs" />
+        <item itemvalue="Application.EmoticonEvent" />
+        <item itemvalue="Application.LookGoodNum" />
+        <item itemvalue="Application.DullGame" />
+        <item itemvalue="Application.Keypad" />
       </list>
     </recent_temporary>
   </component>
