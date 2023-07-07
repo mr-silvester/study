@@ -43,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Dfs">
+  <component name="RunManager" selected="Application.Tired">
     <configuration name="Dfs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.algorithm.Dfs" />
       <module name="study.main" />
@@ -83,19 +83,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Keypad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.programmers.level1.Keypad" />
-      <module name="study.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.programmers.level1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LookGoodNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.programmers.LookGoodNum" />
       <module name="study.main" />
@@ -109,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tired" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.programmers.level2.Tired" />
+      <module name="study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.programmers.level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tired" />
         <item itemvalue="Application.Dfs" />
         <item itemvalue="Application.EmoticonEvent" />
         <item itemvalue="Application.LookGoodNum" />
         <item itemvalue="Application.DullGame" />
-        <item itemvalue="Application.Keypad" />
       </list>
     </recent_temporary>
   </component>
